@@ -11,7 +11,6 @@ export function makeFile(info){
     const ajoute=(element)=>{
         let total=0
         let a =date.indexOf(element.date)+1
-        console.lo
         let indexOr ='OR'+ a
         let indexOp ='OP'+ a
         let indexAr ='AR'+ a
